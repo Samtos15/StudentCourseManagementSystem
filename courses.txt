@@ -1,0 +1,5 @@
+DTS 201,Introduction to Data Science,2
+ENT 211,Entrepreneurship and Innovation,2
+MTH 201,Mathematical Methods I,2
+DTS 211,Introduction to R Programming,2
+COS 201,Computer Programming I,3
